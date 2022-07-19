@@ -10,8 +10,9 @@ body{
 
 .header{
     margin-bottom: 50px;
-    padding-left: 120px;
-    padding-right: 120px;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .top-header{
@@ -226,3 +227,6 @@ body{
     padding: 15px;
     border-radius: 50%;
 }
+
+
+
